@@ -1,7 +1,7 @@
 # Bit-Based Bullet Hell
 Bit-Based Bullet Hell is a casual game made in Unity. Players must collect as many green tokens as possible whilst avoiding the gradually increasing number of lethal red squares. This is the first game I made in college which allowed for complete creative freedom.
 
-# My contributions to the project:
+# My Contributions to the Project:
 - Scripted for player movement via applying velocity whenever a movement key is pressed
 - Scripted for enemy movement via applying velocity in the direction of a vector reflected off of the contacted wall
 - Programmed the timer UI to update and format itself to a timer format
